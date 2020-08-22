@@ -13,7 +13,5 @@
 
 <br />   
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BackInBash&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="Markus's github stats" />
-<br />
-<br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BackInBash&layout=compact&theme=radical" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BackInBash&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="Markus's github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BackInBash&layout=compact&theme=radical" />

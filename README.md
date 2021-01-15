@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/BackInBash?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&stars=1&isocalendar.duration=half-year&stars.limit=4&config.timezone=Europe%2FBerlin)
+![Metrics](![Metrics](https://github.com/BackInBash/BackInBash/blob/master/github-metrics.svg))
